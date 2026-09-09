@@ -1,4 +1,4 @@
-# 🌐 VLAN Configuration Using Cisco Packet Tracer
+# 🌐 VLAN Trunking Protocol Configuration Using Cisco Packet Tracer
 
 ![Cisco](https://img.shields.io/badge/Cisco-Catalyst%202960-blue)
 ![Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-Lab-green)
